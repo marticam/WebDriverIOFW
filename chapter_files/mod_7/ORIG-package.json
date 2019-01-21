@@ -1,0 +1,15 @@
+{
+  "name": "webdriverioframework",
+  "version": "1.0.0",
+  "description": "Webdriverio Framework",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Gianni Bruno",
+  "license": "ISC",
+  "devDependencies": {
+    "selenium-standalone": "^.6.15.3"
+    "webdriverio": "^4.13.2"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "name": "fwautowebio",
+  "version": "1.0.0",
+  "description": "WebDriverIO Framework",
+  "main": "index.js",
+  "scripts": {
+    "test": "wdio"
+  },
+  "author": "Camilo Martinez Mora",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^5.2.0",
+    "selenium-standalone": "^6.15.4",
+    "sync-request": "^6.0.0",
+    "wdio-mocha-framework": "^0.6.4",
+    "wdio-selenium-standalone-service": "0.0.12",
+    "webdriverio": "^4.13.2"
+  },
+  "dependencies": {}
+}
