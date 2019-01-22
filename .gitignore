@@ -1,2 +1,7 @@
 /node_modules
 /.history
+/allure-report/*
+/reports/allure-results/*
+/reports/json-results/*
+/reports/junit-results/*
+/errorShots
